@@ -29,7 +29,7 @@ I build and lead the development of robust web applications using Ruby on Rails 
 - CI/CD with GitHub Actions
 - Manages accounts, categories, income, and expenses
 
-### [TopicScout](#)
+### [Tapik](https://tapik.readeveloper.com/)
 *A content discovery tool that summarizes timely information from around the web.*
 
 - Built with Ruby on Rails 8 and PostgreSQL
