@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Oziel
 
-I'm a Senior Software Engineer based in Monterrey, Mexico.
+I'm a Software Engineer based in Monterrey, Mexico.
 
 I consider myself a code artisan — I believe software is a mix of engineering and art and should be crafted with care, passion, and purpose in mind.
 
